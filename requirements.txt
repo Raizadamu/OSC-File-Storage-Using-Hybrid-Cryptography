@@ -1,4 +1,4 @@
 Flask==2.2.2
-werkzeug
+werkzeug==2.2.2
 cryptography==2.9.2
 gunicorn==20.0.4
